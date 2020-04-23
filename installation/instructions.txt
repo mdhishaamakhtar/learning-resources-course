@@ -1,0 +1,19 @@
+Nodejs Installation:
+
+Download = https://nodejs.org
+Installation = https://github.com/nodejs/help/wiki/Installation
+
+Heroku Installation:
+
+Download Git = https://git-scm.com/downloads
+Download Heroku = https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+
+VSCode Installation:
+
+Download: https://code.visualstudio.com/#alt-downloads
+
+Postman Installation:
+
+Download: https://www.postman.com/downloads/
+
+Docs Link: https://docs.google.com/document/d/1NTKyAsHMgQOtQ9ceXEKqusePyB2j-WsI2FKxJHQsyx8/edit?usp=sharing
